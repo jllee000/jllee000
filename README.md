@@ -1,14 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&reversal=true&height=380&section=header&text=JELLYME's%20Profile&fontSize=90&fontColor=feb9c6&animation=fadeIn" />
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&reversal=true&height=380&section=header&text=JELLYME's%20Profile&fontSize=90&fontColor=feb9c6&animation=fadeIn" />
+	<h1>🔎 JellyMe's profile 🍭</h1>
+	<h3>✨Frontend Developer✨</h3>
+	<br>
+	
 
-# 🔎 JellyMe's profile 🍭
-✨**Frontend Developer**✨
+</div>
 
 <div align="center">
 
 <br>
 <br>
 
-<h3> 🚗 Experience </h3>
+<h3> 🎞HISTORY🎨 </h3>
 	
 | Period | Title | Contents | Role |
 | --- | --- | --- | --- |
@@ -40,10 +44,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jllee000&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 </div>
 <div align="center">
-	<h3> 🖥 Tech Stack </h3>
+	<h3> 🖥 Stack </h3>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -53,12 +58,19 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>	
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 	<br/>
-
+	<br /><hr /><br />
+ 
  
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jllee000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 
+<br> 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
