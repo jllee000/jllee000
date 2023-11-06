@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&reversal=true&height=380&section=header&text=JELLYME's%20Profile&fontSize=90&fontColor=feb9c6&animation=fadeIn" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&reversal=true&height=380&section=header&text=JELLY._.ME&fontSize=90&fontColor=feb9c6&animation=fadeIn" />
 	<h1>🔎 JellyMe's profile 🍭</h1>
 	<h3>✨Frontend Developer✨</h3>
 	<br>
