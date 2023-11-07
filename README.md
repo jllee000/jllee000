@@ -70,9 +70,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jllee000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://RGD-project.vercel.app/api/pin/?username=jllee000a&repo=RGD-project" />
-</a> 
+
 
 
 <br> 
