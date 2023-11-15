@@ -14,7 +14,7 @@
 
 <h3> 🎞HISTORY🎨 </h3>
 	
-| Period | 활동 내용 | Contents | Role |
+| Period |      활동 내용     | Contents | Role |
 | --- | -------- | --- | --- |
 | 2021.03 ~ | 성균관대학교 재학 中 | 컴퓨터교육과 | |
 | 2021.04 ~ 2022.12 | 성균웹진 공식 홍보단체 | https://youtu.be/96rTKsiacvQ?si=-p9-L51KBAvUPixj | 영상편집부 |
