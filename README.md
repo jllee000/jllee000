@@ -22,18 +22,13 @@
 	<br/>
 	<br /><hr /><br />
  
- 
-</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jllee000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jllee000)](https://solved.ac/jllee000/)
 
+ 
+</div>
+
 <br> 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
