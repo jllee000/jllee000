@@ -25,8 +25,7 @@
  
 </div>
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=jllee000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jllee000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jllee000)](https://solved.ac/jllee000/)
 
