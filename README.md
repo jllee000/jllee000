@@ -4,26 +4,26 @@
 	<h3>✨Web Developer✨</h3>
 	<br>
 	
-	<h2>경력</h2>
+<h2>경력</h2>
 	
-	<p>the SMC 개발 우수 인턴 | 고객사 대상 컨텐츠 개발</p>
-	<p>(주)한국문화진흥 컬쳐랜드 개발 계약직 | 컬쳐랜드 어플 리뉴얼 및 신규 웹 플젝 개발</p>
+<p>the SMC 개발 우수 인턴 | 고객사 대상 컨텐츠 개발</p>
+<p>(주)한국문화진흥 컬쳐랜드 개발 계약직 | 컬쳐랜드 어플 리뉴얼 및 신규 웹 플젝 개발</p>
 
 </div>
 
 
 
 <div align="center">
-	<h2>Awards</h2>
+<h2>Awards</h2>
 	
-	<p>2024 Kakao x Goorm 해커톤 | 최우수상(2등) 수상</p>
-	<p>2024 울산 정신건강 공모전 | 장려상 수상</p>
-	<p>2023 AI 캡스톤 경진대회 | 금상 수상</p>
-	<p>2023 한국컴퓨터교육학회 AI 해커톤 | AI/SW 사업단장상 수상 </p>
-	<p>2023 AI 교육 해커톤 | 우수상 수상</p>
+<p>2024 Kakao x Goorm 해커톤 | 최우수상(2등) 수상</p>
+<p>2024 울산 정신건강 공모전 | 장려상 수상</p>
+<p>2023 AI 캡스톤 경진대회 | 금상 수상</p>
+<p>2023 한국컴퓨터교육학회 AI 해커톤 | AI/SW 사업단장상 수상 </p>
+<p>2023 AI 교육 해커톤 | 우수상 수상</p>
 
 	
-	<h3> 🖥 Stack </h3>
+<h3> 🖥 Stack </h3>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
